@@ -1,6 +1,6 @@
 public class IfElseDemo {
 
-    private InsuranceStrategyVeryHigh strategy;
+    private InsuranceStrategy strategy;
 
     public double calculateInsurance(double income) {
         if (income <= 10000) {
